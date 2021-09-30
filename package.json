@@ -1,0 +1,16 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-compile": "sass scss/main.scss:css/main.css",
+    "sass-watch": "sass --watch scss/main.scss:css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.42.1"
+  }
+}
